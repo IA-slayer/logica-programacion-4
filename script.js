@@ -36,7 +36,7 @@ function conversor() {
         //let tempKelvin = celsiusKelvin(tempCelsius).toFixed(2);
 
         let resultadosDiv = document.getElementById("resultados");
-        resultadosDiv.innerHTML = "<p>" + " Los primeros " + numFibo + " de la serie de Fibonacci es : " + serieFibo + "</p>";
+        resultadosDiv.innerHTML = "<p>" + " Los primeros " + numFibo + " digitos de la serie de Fibonacci es : " + serieFibo + "</p>";
         //resultadosDiv.innerHTML += "<p>" + tempCelsius + " grados Celsius son " + tempKelvin + " Kelvin.</p>";
         
 
